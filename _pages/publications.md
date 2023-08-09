@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Contribution of In-Scanner Thoughts to Resting-state Functional Connectivity: how participants rest matters
+Gonzalez-Castillo, J., **Spurney, M.A.**, Lam, K.C., Pereira, F., Handwerker, D.A., Bandettini, P.A. (*In Preparation*)
 
-{% include base_path %}
+## The art and science of using quality control to understand and improve fMRI data
+### 2023
+This paper describes the authors' approach on how to best quality control fMRI data. [Download paper here](https://www.frontiersin.org/articles/10.3389/fnins.2023.1100544/full)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Teves, J., Gonzalez-Castillo, J., Holness, M., **Spurney, M.A.**, Bandettini, P.A., Handwerker, D.A. (2023). &quot;The art and science of using quality control to understand and improve fMRI data.&quot; <i>Frontiers in Neuroscience</i>. 17.

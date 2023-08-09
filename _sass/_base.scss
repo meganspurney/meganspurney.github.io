@@ -11,8 +11,9 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
-  color: $text-color;
-  font-family: $global-font-family;
+  color: black;
+  font-family: serif;
+  background-color: #DFF7FF;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,7 +25,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  font-family: serif;
+  background-color: #DFF7FF;
   font-weight: bold;
 }
 
@@ -63,7 +65,7 @@ p {
 
 u,
 ins {
-  text-decoration: none;
+  text-decoration: wavy underline;
   border-bottom: 1px solid $text-color;
   a {
     color: inherit;
@@ -290,7 +292,7 @@ nav {
   }
 
   a {
-    text-decoration: none;
+    text-decoration: wavy underline;
   }
 
   /* override white-space for nested lists */

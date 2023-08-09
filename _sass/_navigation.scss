@@ -13,7 +13,7 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $sans-serif;
+  font-family: serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
@@ -31,7 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: 16px;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: serif;
   }
 
   li {
@@ -77,27 +77,27 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: serif;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: black;
+      border: black;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: black;
       }
 
       &.current {
-        color: #fff;
-        background: $primary-color;
+        color: black;
+        background: #DFF7FF;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: black;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -126,12 +126,12 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
-    font-size: $type-size-5;
+    font-family: serif;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: black;
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: black;
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #DFF7FF;
 
   a {
     display: block;
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: #DFF7FF;
     color: #fff;
     cursor: pointer;
   }
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: #DFF7FF;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: black;
       }
     }
 
@@ -323,10 +323,10 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: mix(#fff, $gray, 25%);
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: black underline;
     }
   }
 
@@ -335,12 +335,13 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
-    font-weight: bold;
-    background: $primary-color;
+    font-weight: italic;
+    background: #DFF7FF;
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: black;
+      text-decoration: black underline;
     }
   }
 }
@@ -348,8 +349,8 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-family: serif;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -357,8 +358,8 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-family: serif;
+  font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
@@ -370,19 +371,19 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
-  color: $gray;
+  font-family: serif;
+  color: mix(#fff, $gray, 25%);
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+  background-color: #DFF7FF;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
-    font-size: $type-size-6;
-    background: $primary-color;
+    color: mix(#fff, $gray, 25%);
+    font-size: 25px;
+    background: #DFF7FF;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -398,15 +399,15 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
-    font-size: $type-size-7;
+    color: black;
+    font-size: 20px;;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: $lighter-gray;
+      color: pink;
+      background: #DFF7FF;
     }
   }
 

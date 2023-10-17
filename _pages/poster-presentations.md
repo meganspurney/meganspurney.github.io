@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 # 2023
+## NIMH Training Day, National Institute of Mental Health, Bethesda, MD
+**Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A. 
+*Exploring the landscape of brain-behavior predictions by leveraging dynamic connectivity information from resting-state fMRI* [link](../files/TraineeDayPoster23.pdf)
+
 ## Postbaccalaureate Poster Days, National Institutes of Health, Bethesda, MD
 **Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A. 
-*Building brain-behavior predictions from multiple measures of fMRI connectivity dynamics.*
+*Building brain-behavior predictions from multiple measures of fMRI connectivity dynamics*
 [link](../files/PosterDay_2023_final.pdf)
 
 ## Organization for Human Brain Mapping, Montreal, Canada

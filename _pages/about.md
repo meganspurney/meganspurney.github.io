@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**I am planning on applying to graduate school programs to study developmental cognitive neuroscience for admission in Fall 2024!** *Please see the [Research](research.md) tab to learn more about my research interests and career goals.*
+**I am applying to graduate school programs to study developmental cognitive neuroscience for admission in Fall 2024!** *Please see the [Research](research.md) tab to learn more about my research interests and career goals.*
 
-As a post-baccalaureate fellow in the Clinical Translational Neuroscience Branch under [Dr. Karen Berman](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/karen-berman), I conduct research using magnetic resonance imaging (MRI), both structural and functional, to investigate the impact that hormonal changes during puberty have on the brain. 
+As a post-baccalaureate fellow in the Clinical Translational Neuroscience Branch under [Dr. Karen Berman](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/karen-berman), I conduct research using magnetic resonance imaging (MRI), both structural and functional, as well as position-emission tomographpy (PET), to investigate the impact that hormonal changes during throughout the menstrual cycle have on the intrinsic resting activity of the brain in healthy women. 
 
 I spent two years following my undergraduate education as a post-baccalaureate fellow in the [Section on Functional Imaging Methods](https://fim.nimh.nih.gov/) under [Dr. Peter Bandettini](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/peter-bandettini). During this time, I worked on a multitude of projects analyzing functional connectivity in resting-state fMRI and how to leverage connectivity information to enhance brain-behavior predictions. 
 

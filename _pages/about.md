@@ -32,3 +32,7 @@ I received a B.A. in Psychology from  [Cornell University](https://www.cornell.e
 </p>
 
 Outside of the lab, I love a good brunch, reading, working out, and watching sports with my family. 
+<p align="center">
+  <img src="../images/caps.jpg_large" width="49%" />
+  <img src="../images/terry.webp" width="49%" />
+</p>

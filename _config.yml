@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "tWTByE-UCoc-OJqwEWyPuuTVmCYIAmzEs26vhgLhBCQ"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -87,7 +87,7 @@ author:
   employer         : "NIMH"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=62ieKvIAAAAJ&gmla=AOV7GLPMZfdRvFy8H4rwF-7-CbD8DlRpUqsnrI7Hzu3L59iawS1_M6n4nEw3yKgAeDKeBSYIFDKQha6dGx57lQvfVX2x4vniPA1XV-dz58lu"
-  email            : "megan.spurney@nih.gov mas749@cornell.edu"
+  email            : "megan.spurney@nih.gov"
   researchgate     :  
   uri              :
   bitbucket        :

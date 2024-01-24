@@ -20,17 +20,17 @@ You can find more information about my research in the [Poster Presentations](po
 <style>
     body {
         color: black;
-        background-color: #DFF7FF;
+        background-color: #ffffff;
         font-family: serif;
     }
     h1 {
         color: black;
-        background-color: #DFF7FF;
+        background-color: #ffffff;
         font-family: serif;
     }
     h2 {
         color: black;
-        background-color: #DFF7FF;
+        background-color: #ffffff;
         font-family: serif;
     }
 

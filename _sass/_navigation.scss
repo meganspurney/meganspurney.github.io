@@ -93,7 +93,7 @@
 
       &.current {
         color: black;
-        background: #DFF7FF;
+        background: #ffffff;
       }
 
       &.disabled {
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #DFF7FF;
+  background: #ffffff;
 
   a {
     display: block;
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #DFF7FF;
+    background-color: #ffffff;
     color: #fff;
     cursor: pointer;
   }
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #DFF7FF;
+        background: #ffffff;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: italic;
-    background: #DFF7FF;
+    background: #ffffff;
     border-radius: $border-radius;
 
     &:hover {
@@ -375,7 +375,7 @@
   color: mix(#fff, $gray, 25%);
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #DFF7FF;
+  background-color: #ffffff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -383,7 +383,7 @@
   .nav__title {
     color: mix(#fff, $gray, 25%);
     font-size: 25px;
-    background: #DFF7FF;
+    background: #ffffff;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }

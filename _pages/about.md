@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**I am applying to PhD programs to study developmental cognitive neuroscience for admission in Fall 2024!** *Please see the [Research](research.md) tab to learn more about my research interests and career goals.*
-
 As a NIH post-baccalaureate fellow in the Clinical & Translational Neuroscience Branch under [Dr. Karen Berman](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/karen-berman), I conduct research using structural and functional magnetic resonance imaging (MRI), as well as positron-emission tomography (PET), to investigate the relationship between gonadal hormone fluctuations during the menstrual cycle and the intrinsic resting activity of the brain in healthy women. In addition, I also investigate how this relationship is mediated by exogenous hormone manipulation via oral contraceptive use. 
 
 <p align="center">

@@ -11,7 +11,7 @@ redirect_from:
 # 2024
 ## Society of Biological Psychiatry Annual Meeting, Austin, TX, USA
 **Spurney, M.A.**, Wei, SM., Eisenberg, D.P., Kohn, P.D., Recto, C. Wilder, I.M., Mann, N.S., Schmidt, P.J., Berman, K.F. 
-*[15O]-Water PET Regional Cerebral Blood Flow during Rest in Men, Naturally-Cycling Women, and Women using Oral Contraceptives.* 
+*[15O]-Water PET Regional Cerebral Blood Flow during Rest in Men, Naturally-Cycling Women, and Women using Oral Contraceptives.* [link](../files/SOBP24_Poster.pdf)
 
 # 2023
 ## Society for Neuroscience Annual Meeting, Washington, DC, USA

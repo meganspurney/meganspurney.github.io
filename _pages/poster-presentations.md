@@ -9,18 +9,15 @@ redirect_from:
 
 
 # 2024
+## Postbaccalaureate Poster Days, National Institutes of Health, Bethesda, MD, USA
+**Spurney, M.A.**, Wei, SM., Eisenberg, D.P., Kohn, P.D., Recto, C. Wilder, I.M., Mann, N.S., Schmidt, P.J., Berman, K.F. 
+*Resting Regional Cerebral Blood Flow Across Men, Naturally-Cycling Women, and Women using Oral Contraceptives Measured by [15O]-Water Positron Emission Tomography* [link](../files/PosterDay24_FINAL.pdf)
+
 ## Society of Biological Psychiatry Annual Meeting, Austin, TX, USA
 **Spurney, M.A.**, Wei, SM., Eisenberg, D.P., Kohn, P.D., Recto, C. Wilder, I.M., Mann, N.S., Schmidt, P.J., Berman, K.F. 
-*[15O]-Water PET Regional Cerebral Blood Flow during Rest in Men, Naturally-Cycling Women, and Women using Oral Contraceptives.* [link](../files/SOBP24_Poster.pdf)
+*[15O]-Water PET Regional Cerebral Blood Flow during Rest in Men, Naturally-Cycling Women, and Women using Oral Contraceptives* [link](../files/SOBP24_Poster.pdf)
 
 # 2023
-## Society for Neuroscience Annual Meeting, Washington, DC, USA
-**Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A.
-*Evaluating the predictive power of dynamic fMRI connectivity summary statistics* [link](../files/SFNPoster23_FINAL.pdf)
-
-## NIMH Training Day, National Institute of Mental Health, Bethesda, MD, USA
-**Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A. 
-*Exploring the landscape of brain-behavior predictions by leveraging dynamic connectivity information from resting-state fMRI* [link](../files/TraineeDayPoster23.pdf)
 
 ## Postbaccalaureate Poster Days, National Institutes of Health, Bethesda, MD, USA
 **Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A. 
@@ -31,6 +28,14 @@ redirect_from:
 **Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A.
 *Edge-time series summary metrics: predictive value for demographics and cognitive traits*
 [link](../files/OHBM23_Poster_FINAL.pdf)
+
+## NIMH Training Day, National Institute of Mental Health, Bethesda, MD, USA
+**Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A. 
+*Exploring the landscape of brain-behavior predictions by leveraging dynamic connectivity information from resting-state fMRI* [link](../files/TraineeDayPoster23.pdf)
+
+## Society for Neuroscience Annual Meeting, Washington, DC, USA
+**Spurney, M.A.**, Faskowitz, J., Gonzalez-Castillo, J., Handwerker, D.A., Bandettini, P.A.
+*Evaluating the predictive power of dynamic fMRI connectivity summary statistics* [link](../files/SFNPoster23_FINAL.pdf)
 
 # 2022
 ## Postbaccalaureate Poster Days, National Institutes of Health, Bethesda, MD, USA

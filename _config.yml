@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Megan Spurney"
+title                    : "Megan Spurney: Academic Portfolio for Research and Graduate Work"
 title_separator          : "-"
 name                     : &name "Megan Spurney"
-description              : &description "personal description"
+description              : &description "Explore Megan Spurney's academic portfolio showcasing research content and graduate school work. Dive into a collection of scholarly projects and contributions in cognitive neuroscience. Discover insights, analyses, and findings that contribute to the academic discourse. Contact Megan Spurney for collaborations and inquiries."
 url                      : https://meganspurney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meganspurney/meganspurney.github.io"

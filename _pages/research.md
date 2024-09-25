@@ -7,7 +7,7 @@ author_profile: true
 
  I am interested in studying developmental trajectories of cognition and mental health and how these paths interact. My work focuses on investigating how the hormonal changes that accompany adolescence and the pubertal transition influence the development of higher-order cognitive processes, such as decision making and cognitive control, and how this may confer risk for internalizing disorders, such as depression.
 
-## How Brain-Hormone Interactions Impact Resting Regional Cerebral Blood Flow (2023-Present)
+## How Brain-Hormone Interactions Impact Resting Regional Cerebral Blood Flow (2023-2024)
 In Dr. Karen Berman's lab, I worked to better characterize the intricate link between the endocrine and nervous systems. To measure brain function, I used PET imaging to extract measures of [resting regional cerebral blood flow](https://www.sciencedirect.com/topics/psychology/regional-cerebral-blood-flow) (rCBF) as well as an MRI method known as [Arterial Spin Labeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999014/). Resting rCBF has been shown to exhibit robust sex differences, as well as abnormalities in several neuropsychiatric illnesses where in sex differences occur, such as major depression and schizophrenia. The goal of my project was to  to evaluate the effects of hormone condition on brain function using measures of rCBF extracted from PET resting scans of healthy subjects done at the NIH Clinical Center. Our subjects included men, naturally cycling women, and women using oral contraceptives.
 
 ## Functional MRI Connectivity Analyses (2021-2023)

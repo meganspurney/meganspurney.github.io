@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Contribution of In-Scanner Thoughts to Resting-state Functional Connectivity: how participants rest matters
-Gonzalez-Castillo, J., **Spurney, M.A.**, Lam, K.C., Pereira, F., Handwerker, D.A., Bandettini, P.A. (*In Preparation*)
+## In-Scanner Thoughts Shape Resting-state Functional Connectivity: how participants rest matters
+Gonzalez-Castillo, J., **Spurney, M.A.**, Lam, K.C., Pereira, F., Handwerker, D.A., Bandettini, P.A. (*Under Review*) In-Scammer Thoughts Shape Resting-state Functional Connectivity: how participants "rest" matters. *Nature Neuroscience.* https://doi.org/10.1101/2024.06.05.596482
 
 ## The art and science of using quality control to understand and improve fMRI data
 ### 2023
